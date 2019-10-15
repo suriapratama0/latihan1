@@ -11,7 +11,7 @@ Mengembangkan perangkat lunak tanpa menggunakan Version Control (Kontrol Versi) 
 
 ## Konfigurasi awal harus di lakukan
 Ada beberapa konfigurasi yang harus dupersiapakan sebelum mulai menggunakan Git, seperti name dan email.
-#####Silahkan lakukan konfigurasi dengan perintah berikut ini.
+##### Silahkan lakukan konfigurasi dengan perintah berikut ini.
 
 ## Langkah-langkah menggunakan git
 #### lakukan config global repository nama dan alamat email dengan cara:
