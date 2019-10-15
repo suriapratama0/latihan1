@@ -18,8 +18,13 @@ Ada beberapa konfigurasi yang harus dupersiapakan sebelum mulai menggunakan Git,
 ###### git config --list
 ##### Apabila berhasil tampil seperti gambar berikut ini, berarti konfigurasi berhasil.
 
-https://1.bp.blogspot.com/-Lc0x4c4UFOM/VvYTsGHo1WI/AAAAAAAACkU/Bl3n__Da8hETuwWU52ZvR9C5NYywPINuQ/s1600/Konfigurasi%2Bgit%2Badmin%2Bpetani%2Bkode.png
+![Konfigurasi git admin petani kode](https://user-images.githubusercontent.com/56243275/66791667-5aecbe00-ef1f-11e9-9c82-1115159a456b.png)
 
+##### Konfigurasi core.editor bersifat opsional. Sedangkan name dan email wajib.
+##### Jika kamu memiliki akun Github, Gitlab, Bitbucket atau yang lainnya…maka username dan email harus mengikuti akun tersebut agar mudah diintegrasikan.
+
+## Apa selanjutnya?
+##### kita sudah mempersiapkan semuanya. Selanjutnya kita bisa langsung belajar membuat repositori git.
 
 ## Langkah-langkah menggunakan git
 #### lakukan config global repository nama dan alamat email dengan cara:
