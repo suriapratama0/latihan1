@@ -27,13 +27,6 @@ Ada beberapa konfigurasi yang harus dupersiapakan sebelum mulai menggunakan Git,
 ##### kita sudah mempersiapkan semuanya. Selanjutnya kita bisa langsung belajar membuat repositori git.
 
 ## Langkah-langkah menggunakan git
-#### lakukan config global repository nama dan alamat email dengan cara:
-###### $ git config --global user.name "nama_user"
-###### $ git config --global user.email "nama_email"
-
-
-![Screenshot (10)](https://user-images.githubusercontent.com/56243275/66699309-eee83b00-ed0f-11e9-9777-a3101618b711.png)
-
 
 ####  lalu masuklah ke partisi D: atau selain partisi C: lalu buatlah file baru "lab_pemrograman" masuklah ke file baru tersebut dan buatlah lagi file baru "latihan1" dengan cara:
 ###### $ cd d:
