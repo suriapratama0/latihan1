@@ -1,7 +1,17 @@
 # latihanVCS
 
-## Mengenal Version Control System (VCS)
+## Mengenal Version Control System (VCS) pengertian:
 Merupakan Suatu paket software dimana ketika kita meninisialisasi, VCS akan memonitor file kita untuk setiap perubahan dan mengizinkan kita untuk menandai perubahan tersebut pada setiap level perubahan , Sehingga kita dapat meninjau ulang tahapan yang ditandai kapan pun ketika dibutuhkan .
+
+## Tujuan Version Control
+Berdasarkan pengertian Version Control di atas, tujuan dari Version Control (Kontrol Versi) adalah memastikan bahwa perubahan konten yang sedang dikembangkan berjalan sesuai rencana. Sementara Version Control (Kontrol Versi) sering dilakukan oleh aplikasi terpisah, itu juga dapat tertanam ke dalam program-program seperti lingkungan pengembangan terintegrasi (IDE), Text Editor, spreadsheet dan, terutama, dokumen dan halaman web kolaboratif. Version Control (Kontrol Versi) memungkinkan server di beberapa lokasi menjalankan versi yang berbeda di situs yang berbeda, walaupun versi tersebut sedang diperbarui secara bersamaan.
+
+## Manfaat Version Control
+Mengembangkan perangkat lunak tanpa menggunakan Version Control (Kontrol Versi) berisiko, seperti tidak memiliki cadangan. Version Control (Kontrol Versi) juga dapat memungkinkan pengembang untuk bergerak lebih cepat dan memungkinkan tim perangkat lunak untuk menjaga efisiensi dan ketangkasan saat tim berskala untuk memasukkan lebih banyak pengembang.
+
+## Konfigurasi awal harus di lakukan
+Ada beberapa konfigurasi yang harus dupersiapakan sebelum mulai menggunakan Git, seperti name dan email.
+Silahkan lakukan konfigurasi dengan perintah berikut ini.
 
 ## Langkah-langkah menggunakan git
 #### lakukan config global repository nama dan alamat email dengan cara:
