@@ -12,6 +12,14 @@ Mengembangkan perangkat lunak tanpa menggunakan Version Control (Kontrol Versi) 
 ## Konfigurasi awal harus di lakukan
 Ada beberapa konfigurasi yang harus dupersiapakan sebelum mulai menggunakan Git, seperti name dan email.
 ##### Silahkan lakukan konfigurasi dengan perintah berikut ini.
+###### git config --global user.name "Petani Kode"
+###### git config --global user.email contoh@petanikode.com
+##### Kemudian periksa konfigurasinya dengan perintah:
+###### git config --list
+##### Apabila berhasil tampil seperti gambar berikut ini, berarti konfigurasi berhasil.
+
+https://1.bp.blogspot.com/-Lc0x4c4UFOM/VvYTsGHo1WI/AAAAAAAACkU/Bl3n__Da8hETuwWU52ZvR9C5NYywPINuQ/s1600/Konfigurasi%2Bgit%2Badmin%2Bpetani%2Bkode.png
+
 
 ## Langkah-langkah menggunakan git
 #### lakukan config global repository nama dan alamat email dengan cara:
